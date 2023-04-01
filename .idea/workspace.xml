@@ -50,6 +50,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Tester\CIAPI1" />
+      <recent name="E:\Tester\CIAPI1\artifacts" />
+      <recent name="E:\Tester\CIAPI1\src\test" />
+    </key>
+  </component>
   <component name="RunManager" selected="Gradle.MobileBankApiTestV1.shouldReturnDemoAccounts">
     <configuration name="MobileBankApiTestV1.shouldReturnDemoAccounts" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
