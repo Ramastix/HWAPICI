@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="55980ff7-ed13-45d1-8a69-43b211cc77c2" name="Changes" comment="readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/rest/MobileBankApiTestV4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resoucer/accounts.schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resoucer/accounts.schema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/rest/MobileBankApiTestV4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resoucer/accounts.schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/accounts.schema.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,12 +53,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Tester\CIAPI1\src\test\resources" />
+      <recent name="E:\Tester\CIAPI1\src\test\java\rest" />
       <recent name="E:\Tester\CIAPI1" />
       <recent name="E:\Tester\CIAPI1\artifacts" />
       <recent name="E:\Tester\CIAPI1\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MobileBankApiTestV4.shouldReturnDemoAccounts (1)">
+  <component name="RunManager" selected="Gradle.MobileBankApiTestV4.shouldReturnDemoAccounts">
     <configuration name="MobileBankApiTestV1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -157,10 +159,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.MobileBankApiTestV4.shouldReturnDemoAccounts (1)" />
         <item itemvalue="Gradle.MobileBankApiTestV4.shouldReturnDemoAccounts" />
-        <item itemvalue="Gradle.MobileBankApiTestV1" />
+        <item itemvalue="Gradle.MobileBankApiTestV4.shouldReturnDemoAccounts (1)" />
         <item itemvalue="Gradle.MobileBankApiTestV1.shouldReturnDemoAccounts" />
+        <item itemvalue="Gradle.MobileBankApiTestV1" />
         <item itemvalue="JAR Application.app-mbank.jar" />
       </list>
     </recent_temporary>
@@ -237,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680353876723</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="readme">
+      <created>1680354232563</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680354232563</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
