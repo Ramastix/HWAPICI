@@ -42,7 +42,7 @@
       <recent name="E:\Tester\CIAPI1\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MobileBankApiTestV6">
+  <component name="RunManager" selected="Gradle.MobileBankApiTestV1.shouldReturnDemoAccounts">
     <configuration name="MobileBankApiTestV1.shouldReturnDemoAccounts" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -118,10 +118,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.MobileBankApiTestV6" />
-        <item itemvalue="Gradle.MobileBankApiTestV4.shouldReturnDemoAccounts" />
         <item itemvalue="Gradle.MobileBankApiTestV1.shouldReturnDemoAccounts" />
         <item itemvalue="JAR Application.app-mbank.jar" />
+        <item itemvalue="Gradle.MobileBankApiTestV6" />
+        <item itemvalue="Gradle.MobileBankApiTestV4.shouldReturnDemoAccounts" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680352684827</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="readme">
+      <created>1680353092367</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680353092367</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
